@@ -12,8 +12,8 @@ import javax.servlet.http.HttpServletResponse;
  * 系统身份验证拦截器
  *
  * @author 13
- * @qq交流群 658365129
- * @email 2449207463@qq.com
+ * @qq交流 992543768
+ * @email 992543768@qq.com
  */
 @Component
 public class MallLoginInterceptor implements HandlerInterceptor {

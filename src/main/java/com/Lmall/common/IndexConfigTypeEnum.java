@@ -1,9 +1,9 @@
 package com.Lmall.common;
 
 /**
- * @author 13
- * @qq交流群 658365129
- * @email 2449207463@qq.com
+ * @author  oy_xw
+ * @qq交流 992543768
+ * @email 992543768@qq.com
  * @apiNote 首页配置项 1-搜索框热搜 2-搜索下拉框热搜 3-(首页)热销商品 4-(首页)新品上线 5-(首页)为你推荐
  */
 public enum IndexConfigTypeEnum {

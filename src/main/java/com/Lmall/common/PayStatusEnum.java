@@ -1,9 +1,9 @@
 package com.Lmall.common;
 
 /**
- * @author 13
- * @qq交流群 658365129
- * @email 2449207463@qq.com
+ * @author  oy_xw
+ * @qq交流 992543768
+ * @email 992543768@qq.com
  * @apiNote 订单状态:0.支付中 1.支付成功 -1.支付失败
  */
 public enum PayStatusEnum {

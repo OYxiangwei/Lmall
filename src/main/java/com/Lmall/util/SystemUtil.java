@@ -4,9 +4,9 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 
 /**
- * @author 13
- * @qq交流群 658365129
- * @email 2449207463@qq.com
+ * @author  oy_xw
+ * @qq交流 992543768
+ * @email 992543768@qq.com
  *
  */
 public class SystemUtil {
